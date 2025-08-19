@@ -1,0 +1,5 @@
+array
+
+foreach loop($aerray as $yourvariable){
+    echo $yourvariable
+}
